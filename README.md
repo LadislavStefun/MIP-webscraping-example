@@ -21,4 +21,4 @@ py .\fakultystu.py
 Výsledky si môžete overiť vo vygenerovanom súbore fakulty.csv
 
 # Príklad výstupu zo súboru 
-![MIP Webscraping Example](https://imgur.com/amfcklA)
+[Imgur](https://imgur.com/Wli491X)
